@@ -1,0 +1,429 @@
+2018-05-18 11:51:30,012 - monitor - INFO - monitor started
+2018-05-18 11:52:07,808 - monitor - INFO - monitor started
+2018-05-18 11:53:06,088 - monitor - INFO - monitor started
+2018-05-18 11:54:12,140 - monitor - INFO - monitor started
+2018-05-18 11:54:20,396 - monitor - INFO - monitor started
+2018-05-18 11:54:20,396 - monitor - INFO - running with the following config file: config.cfg
+2018-05-18 12:02:28,940 - monitor - INFO - monitor started
+2018-05-18 12:02:28,941 - monitor - INFO - running with the following config file: config.cfg
+2018-05-18 12:02:28,941 - monitor - INFO - config.cfg file not found
+2018-05-18 12:02:41,167 - monitor - INFO - monitor started
+2018-05-18 12:02:41,167 - monitor - INFO - running with the following config file: config.cfg
+2018-05-18 12:02:41,174 - monitor - ERROR - config.cfg file not found
+2018-05-18 12:16:28,870 - monitor - INFO - monitor started
+2018-05-18 12:16:28,870 - monitor - INFO - running with the following config file: config.cfg
+2018-05-18 12:17:09,063 - monitor - INFO - monitor started
+2018-05-18 12:17:09,063 - monitor - INFO - running with the following config file: config.cfg
+2018-05-18 12:17:25,610 - monitor - INFO - monitor started
+2018-05-18 12:17:25,610 - monitor - INFO - running with the following config file: config.cfg
+2018-05-18 12:23:49,060 - monitor - INFO - monitor started
+2018-05-18 12:23:49,060 - monitor - INFO - running with the following config file: config.cfg
+2018-05-18 12:23:54,932 - monitor - INFO - monitor started
+2018-05-18 12:23:54,932 - monitor - INFO - running with the following config file: config.cfg
+2018-05-18 12:23:54,932 - monitor - ERROR - error parsing config file: While reading from 'config.cfg' [line  8]: option 'field_1' in section 'MATERIAL_DATA_FIELDS' already exists
+2018-05-18 12:24:30,946 - monitor - INFO - monitor started
+2018-05-18 12:24:30,948 - monitor - INFO - running with the following config file: config.cfg
+2018-05-18 12:27:02,330 - monitor - INFO - monitor started
+2018-05-18 12:27:02,330 - monitor - INFO - running with the following config file: config.cfg
+2018-05-18 12:27:09,745 - monitor - INFO - monitor started
+2018-05-18 12:27:09,745 - monitor - INFO - running with the following config file: config.cfg
+2018-05-18 12:29:58,340 - monitor - INFO - monitor started
+2018-05-18 12:29:58,345 - monitor - INFO - running with the following config file: config.cfg
+2018-05-18 12:37:37,291 - monitor - INFO - monitor started
+2018-05-18 12:37:37,291 - monitor - INFO - running with the following config file: config.cfg
+2018-05-18 12:37:50,461 - monitor - INFO - monitor started
+2018-05-18 12:37:50,461 - monitor - INFO - running with the following config file: config.cfg
+2018-05-18 12:38:03,789 - monitor - INFO - monitor started
+2018-05-18 12:38:03,789 - monitor - INFO - running with the following config file: config.cfg
+2018-05-18 12:38:15,910 - monitor - INFO - monitor started
+2018-05-18 12:38:15,918 - monitor - INFO - running with the following config file: config.cfg
+2018-05-18 12:38:15,918 - monitor - ERROR - error parsing config file: No option 'fields' in section: 'MATERIAL_DATA_FIELDS'
+2018-05-18 12:38:29,602 - monitor - INFO - monitor started
+2018-05-18 12:38:29,602 - monitor - INFO - running with the following config file: config.cfg
+2018-05-18 12:38:38,934 - monitor - INFO - monitor started
+2018-05-18 12:38:38,934 - monitor - INFO - running with the following config file: config.cfg
+2018-05-18 12:38:38,934 - monitor - ERROR - no data in fields parameter
+2018-05-18 12:38:43,915 - monitor - INFO - monitor started
+2018-05-18 12:38:43,915 - monitor - INFO - running with the following config file: config.cfg
+2018-05-18 12:38:43,984 - monitor - INFO - monitor started
+2018-05-18 12:38:43,984 - monitor - INFO - running with the following config file: config.cfg
+2018-05-18 13:09:48,543 - monitor - INFO - monitor started
+2018-05-18 13:09:48,543 - monitor - INFO - running with the following config file: config.cfg
+2018-05-18 13:12:50,797 - monitor - INFO - monitor started
+2018-05-18 13:12:50,797 - monitor - INFO - running with the following config file: config.cfg
+2018-05-18 13:18:05,367 - monitor - INFO - monitor started
+2018-05-18 13:18:05,367 - monitor - INFO - running with the following config file: config.cfg
+2018-05-18 13:19:48,662 - monitor - INFO - monitor started
+2018-05-18 13:19:48,662 - monitor - INFO - running with the following config file: config.cfg
+2018-05-18 13:20:16,853 - monitor - INFO - monitor started
+2018-05-18 13:20:16,853 - monitor - INFO - running with the following config file: config.cfg
+2018-05-18 13:20:58,060 - monitor - INFO - monitor started
+2018-05-18 13:20:58,064 - monitor - INFO - running with the following config file: config.cfg
+2018-05-18 14:53:36,013 - monitor - INFO - monitor started
+2018-05-18 14:53:36,013 - monitor - INFO - running with the following config file: config.cfg
+2018-05-18 14:54:02,764 - monitor - INFO - monitor started
+2018-05-18 14:54:02,764 - monitor - INFO - running with the following config file: config.cfg
+2018-05-18 14:55:03,676 - monitor - INFO - monitor started
+2018-05-18 14:55:03,676 - monitor - INFO - running with the following config file: config.cfg
+2018-05-18 14:59:57,552 - monitor - INFO - monitor started
+2018-05-18 14:59:57,552 - monitor - INFO - running with the following config file: config.cfg
+2018-05-18 15:15:45,964 - monitor - INFO - monitor started
+2018-05-18 15:15:45,964 - monitor - INFO - running with the following config file: config.cfg
+2018-05-18 16:12:20,744 - monitor - INFO - monitor started
+2018-05-18 16:12:20,744 - monitor - INFO - running with the following config file: config.cfg
+2018-05-18 16:14:52,530 - monitor - INFO - monitor started
+2018-05-18 16:14:52,530 - monitor - INFO - running with the following config file: config.cfg
+2018-05-18 16:15:33,754 - monitor - INFO - monitor started
+2018-05-18 16:15:33,754 - monitor - INFO - running with the following config file: config.cfg
+2018-05-18 16:15:43,784 - monitor - INFO - EXP file added C:\Users\Andrea\PycharmProjects\OCSExpMonitor\data\2016_12_06-09_23_58 - Copia.ixc
+2018-05-18 16:19:48,970 - monitor - INFO - monitor started
+2018-05-18 16:19:48,970 - monitor - INFO - running with the following config file: config.cfg
+2018-05-18 16:20:59,007 - monitor - INFO - EXP file added C:\Users\Andrea\PycharmProjects\OCSExpMonitor\data\00000000.EXP
+2018-05-18 16:36:24,728 - monitor - INFO - monitor started
+2018-05-18 16:36:24,728 - monitor - INFO - running with the following config file: config.cfg
+2018-05-18 16:36:34,749 - monitor - INFO - EXP file added C:\Users\Andrea\PycharmProjects\OCSExpMonitor\data\00000000 - Copia.EXP
+2018-05-18 16:42:52,550 - monitor - INFO - monitor started
+2018-05-18 16:42:52,550 - monitor - INFO - running with the following config file: config.cfg
+2018-05-18 16:43:12,580 - monitor - INFO - EXP file added C:\Users\Andrea\PycharmProjects\OCSExpMonitor\data\00000000 - Copia.EXP
+2018-05-18 16:58:52,838 - monitor - INFO - monitor started
+2018-05-18 16:58:52,838 - monitor - INFO - running with the following config file: config.cfg
+2018-05-18 16:59:12,849 - monitor - INFO - EXP file added C:\Users\Andrea\PycharmProjects\OCSExpMonitor\data\00000000 - Copia - Copia.EXP
+2018-05-18 17:02:13,326 - monitor - INFO - monitor started
+2018-05-18 17:02:13,326 - monitor - INFO - running with the following config file: config.cfg
+2018-05-18 17:02:23,342 - monitor - INFO - EXP file added C:\Users\Andrea\PycharmProjects\OCSExpMonitor\data\00000000 - Copia - Copia - Copia.EXP
+2018-05-18 17:03:39,018 - monitor - INFO - monitor started
+2018-05-18 17:03:39,018 - monitor - INFO - running with the following config file: config.cfg
+2018-05-18 17:03:49,044 - monitor - INFO - EXP file added C:\Users\Andrea\PycharmProjects\OCSExpMonitor\data\00000000 - Copia - Copia - Copia - Copia.EXP
+2018-05-18 17:05:21,536 - monitor - INFO - monitor started
+2018-05-18 17:05:21,536 - monitor - INFO - running with the following config file: config.cfg
+2018-05-18 17:06:37,321 - monitor - INFO - monitor started
+2018-05-18 17:06:37,321 - monitor - INFO - running with the following config file: config.cfg
+2018-05-18 17:06:47,334 - monitor - INFO - EXP file added C:\Users\Andrea\PycharmProjects\OCSExpMonitor\data\00000000 - Copia - Copia.EXP
+2018-05-18 17:07:40,590 - monitor - INFO - monitor started
+2018-05-18 17:07:40,590 - monitor - INFO - running with the following config file: config.cfg
+2018-05-18 17:07:50,606 - monitor - INFO - EXP file added C:\Users\Andrea\PycharmProjects\OCSExpMonitor\data\00000000 - Copia - Copia - Copia.EXP
+2018-05-18 17:10:06,984 - monitor - INFO - monitor started
+2018-05-18 17:10:06,984 - monitor - INFO - running with the following config file: config.cfg
+2018-05-18 17:10:17,017 - monitor - INFO - EXP file added C:\Users\Andrea\PycharmProjects\OCSExpMonitor\data\00000000 - Copia - Copia - Copia - Copia.EXP
+2018-05-18 17:10:48,333 - monitor - INFO - monitor started
+2018-05-18 17:10:48,333 - monitor - INFO - running with the following config file: config.cfg
+2018-05-18 17:10:58,347 - monitor - INFO - EXP file added C:\Users\Andrea\PycharmProjects\OCSExpMonitor\data\00000000 - Copia.EXP
+2018-05-18 17:19:44,271 - monitor - INFO - monitor started
+2018-05-18 17:19:44,271 - monitor - INFO - running with the following config file: config.cfg
+2018-05-18 17:19:54,298 - monitor - INFO - EXP file added C:\Users\Andrea\PycharmProjects\OCSExpMonitor\data\00000000 - Copia - Copia.EXP
+2018-05-18 17:20:27,056 - monitor - INFO - monitor started
+2018-05-18 17:20:27,056 - monitor - INFO - running with the following config file: config.cfg
+2018-05-18 17:20:37,065 - monitor - INFO - EXP file added C:\Users\Andrea\PycharmProjects\OCSExpMonitor\data\00000000 - Copia - Copia - Copia.EXP
+2018-05-18 17:22:21,286 - monitor - INFO - monitor started
+2018-05-18 17:22:21,286 - monitor - INFO - running with the following config file: config.cfg
+2018-05-18 17:23:01,339 - monitor - INFO - EXP file added C:\Users\Andrea\PycharmProjects\OCSExpMonitor\data\00000000 - Copia (2).EXP
+2018-05-18 17:23:55,680 - monitor - INFO - monitor started
+2018-05-18 17:23:55,680 - monitor - INFO - running with the following config file: config.cfg
+2018-05-18 17:24:05,706 - monitor - INFO - EXP file added C:\Users\Andrea\PycharmProjects\OCSExpMonitor\data\00000000 - Copia (3).EXP
+2018-05-18 17:27:30,595 - monitor - INFO - monitor started
+2018-05-18 17:27:30,595 - monitor - INFO - running with the following config file: config.cfg
+2018-05-18 17:28:00,625 - monitor - INFO - EXP file added C:\Users\Andrea\PycharmProjects\OCSExpMonitor\data\00000002.EXP
+2018-05-18 17:30:59,217 - monitor - INFO - monitor started
+2018-05-18 17:30:59,217 - monitor - INFO - running with the following config file: config.cfg
+2018-05-18 17:31:09,234 - monitor - INFO - EXP file added C:\Users\Andrea\PycharmProjects\OCSExpMonitor\data\00000002 - Copia.EXP
+2018-05-18 17:32:22,839 - monitor - INFO - monitor started
+2018-05-18 17:32:22,839 - monitor - INFO - running with the following config file: config.cfg
+2018-05-18 17:32:32,852 - monitor - INFO - EXP file added C:\Users\Andrea\PycharmProjects\OCSExpMonitor\data\00000002 - Copia.EXP
+2018-05-18 17:38:13,340 - monitor - INFO - monitor started
+2018-05-18 17:38:13,340 - monitor - INFO - running with the following config file: config.cfg
+2018-05-18 17:38:33,395 - monitor - INFO - EXP file added C:\Users\Andrea\PycharmProjects\OCSExpMonitor\data\00000000 - Copia.EXP
+2018-05-18 17:58:23,552 - monitor - INFO - monitor started
+2018-05-18 17:58:23,552 - monitor - INFO - running with the following config file: config.cfg
+2018-05-18 17:58:23,552 - monitor - INFO - starting with monitoring folder C:\Users\Andrea\PycharmProjects\OCSExpMonitor\data\
+2018-05-18 17:58:43,583 - monitor - INFO - EXP file added C:\Users\Andrea\PycharmProjects\OCSExpMonitor\data\00000000 - Copia.EXP
+2018-05-18 17:59:17,040 - monitor - INFO - monitor started
+2018-05-18 17:59:17,040 - monitor - INFO - running with the following config file: config.cfg
+2018-05-18 17:59:17,040 - monitor - INFO - starting with monitoring folder C:\Users\Andrea\PycharmProjects\OCSExpMonitor\data\
+2018-05-18 17:59:27,046 - monitor - INFO - EXP file added C:\Users\Andrea\PycharmProjects\OCSExpMonitor\data\00000000 - Copia (2).EXP
+2018-05-18 18:02:15,904 - monitor - INFO - monitor started
+2018-05-18 18:02:15,904 - monitor - INFO - running with the following config file: config.cfg
+2018-05-18 18:02:15,904 - monitor - INFO - starting with monitoring folder C:\Users\Andrea\PycharmProjects\OCSExpMonitor\data\
+2018-05-18 18:02:25,918 - monitor - INFO - EXP file added C:\Users\Andrea\PycharmProjects\OCSExpMonitor\data\00000000 - Copia (3).EXP
+2018-05-18 18:46:56,873 - monitor - INFO - monitor started
+2018-05-18 18:46:56,873 - monitor - INFO - running with the following config file: config.cfg
+2018-05-18 18:46:56,873 - monitor - INFO - starting with monitoring folder C:\Users\Andrea\PycharmProjects\OCSExpMonitor\data\
+2018-05-18 18:47:16,904 - monitor - INFO - EXP file added C:\Users\Andrea\PycharmProjects\OCSExpMonitor\data\00000000a.EXP
+2018-05-18 18:47:52,692 - monitor - INFO - monitor started
+2018-05-18 18:47:52,692 - monitor - INFO - running with the following config file: config.cfg
+2018-05-18 18:47:52,692 - monitor - INFO - starting with monitoring folder C:\Users\Andrea\PycharmProjects\OCSExpMonitor\data\
+2018-05-18 18:48:02,705 - monitor - INFO - EXP file added C:\Users\Andrea\PycharmProjects\OCSExpMonitor\data\00000000a - Copia.EXP
+2018-05-18 18:48:19,974 - monitor - INFO - monitor started
+2018-05-18 18:48:19,974 - monitor - INFO - running with the following config file: config.cfg
+2018-05-18 18:48:19,974 - monitor - INFO - starting with monitoring folder C:\Users\Andrea\PycharmProjects\OCSExpMonitor\data\
+2018-05-18 18:48:29,998 - monitor - INFO - EXP file added C:\Users\Andrea\PycharmProjects\OCSExpMonitor\data\00000000a - Copia (2).EXP
+2018-05-18 18:49:21,882 - monitor - INFO - monitor started
+2018-05-18 18:49:21,883 - monitor - INFO - running with the following config file: config.cfg
+2018-05-18 18:49:21,884 - monitor - INFO - starting with monitoring folder C:\Users\Andrea\PycharmProjects\OCSExpMonitor\data\
+2018-05-18 18:49:31,896 - monitor - INFO - EXP file added C:\Users\Andrea\PycharmProjects\OCSExpMonitor\data\00000000a - Copia (3).EXP
+2018-05-18 19:01:25,988 - monitor - INFO - monitor started
+2018-05-18 19:01:25,988 - monitor - INFO - running with the following config file: config.cfg
+2018-05-18 19:01:25,988 - monitor - INFO - starting with monitoring folder C:\Users\Andrea\PycharmProjects\OCSExpMonitor\data\
+2018-05-18 19:01:36,010 - monitor - INFO - EXP file added C:\Users\Andrea\PycharmProjects\OCSExpMonitor\data\00000000a - Copia - Copia.EXP
+2018-05-18 19:03:33,955 - monitor - INFO - monitor started
+2018-05-18 19:03:33,955 - monitor - INFO - running with the following config file: config.cfg
+2018-05-18 19:03:33,955 - monitor - INFO - starting with monitoring folder C:\Users\Andrea\PycharmProjects\OCSExpMonitor\data\
+2018-05-18 19:03:43,970 - monitor - INFO - EXP file added C:\Users\Andrea\PycharmProjects\OCSExpMonitor\data\00000000a - Copia (4).EXP
+2018-05-18 19:04:14,577 - monitor - INFO - monitor started
+2018-05-18 19:04:14,577 - monitor - INFO - running with the following config file: config.cfg
+2018-05-18 19:04:14,577 - monitor - INFO - starting with monitoring folder C:\Users\Andrea\PycharmProjects\OCSExpMonitor\data\
+2018-05-18 19:04:24,594 - monitor - INFO - EXP file added C:\Users\Andrea\PycharmProjects\OCSExpMonitor\data\00000000a - Copia (5).EXP
+2018-05-18 19:04:49,366 - monitor - INFO - monitor started
+2018-05-18 19:04:49,366 - monitor - INFO - running with the following config file: config.cfg
+2018-05-18 19:04:49,366 - monitor - INFO - starting with monitoring folder C:\Users\Andrea\PycharmProjects\OCSExpMonitor\data\
+2018-05-18 19:05:29,412 - monitor - INFO - EXP file added C:\Users\Andrea\PycharmProjects\OCSExpMonitor\data\00000000a - Copia (2).EXP
+2018-05-18 19:08:00,964 - monitor - INFO - monitor started
+2018-05-18 19:08:00,964 - monitor - INFO - running with the following config file: config.cfg
+2018-05-18 19:08:00,964 - monitor - INFO - starting with monitoring folder C:\Users\Andrea\PycharmProjects\OCSExpMonitor\data\
+2018-05-18 19:08:10,978 - monitor - INFO - EXP file added C:\Users\Andrea\PycharmProjects\OCSExpMonitor\data\00000000a - Copia (3).EXP
+2018-05-18 20:40:57,521 - monitor - INFO - monitor started
+2018-05-18 20:40:57,521 - monitor - INFO - running with the following config file: config.cfg
+2018-05-18 20:40:57,521 - monitor - INFO - starting with monitoring folder C:\Users\Andrea\PycharmProjects\OCSExpMonitor\data\
+2018-05-18 20:41:17,540 - monitor - INFO - EXP file added C:\Users\Andrea\PycharmProjects\OCSExpMonitor\data\00000000a - Copia (4).EXP
+2018-05-18 20:42:29,979 - monitor - INFO - monitor started
+2018-05-18 20:42:29,979 - monitor - INFO - running with the following config file: config.cfg
+2018-05-18 20:42:29,980 - monitor - INFO - starting with monitoring folder C:\Users\Andrea\PycharmProjects\OCSExpMonitor\data\
+2018-05-18 20:42:39,982 - monitor - INFO - EXP file added C:\Users\Andrea\PycharmProjects\OCSExpMonitor\data\00000000a - Copia (5).EXP
+2018-05-18 20:43:41,175 - monitor - INFO - monitor started
+2018-05-18 20:43:41,175 - monitor - INFO - running with the following config file: config.cfg
+2018-05-18 20:43:41,175 - monitor - INFO - starting with monitoring folder C:\Users\Andrea\PycharmProjects\OCSExpMonitor\data\
+2018-05-18 20:43:51,190 - monitor - INFO - EXP file added C:\Users\Andrea\PycharmProjects\OCSExpMonitor\data\00000000a - Copia (6).EXP
+2018-05-18 20:44:45,410 - monitor - INFO - monitor started
+2018-05-18 20:44:45,410 - monitor - INFO - running with the following config file: config.cfg
+2018-05-18 20:44:45,410 - monitor - INFO - starting with monitoring folder C:\Users\Andrea\PycharmProjects\OCSExpMonitor\data\
+2018-05-18 20:44:55,419 - monitor - INFO - EXP file added C:\Users\Andrea\PycharmProjects\OCSExpMonitor\data\00000000a - Copia (7).EXP
+2018-05-18 20:45:38,568 - monitor - INFO - monitor started
+2018-05-18 20:45:38,568 - monitor - INFO - running with the following config file: config.cfg
+2018-05-18 20:45:38,568 - monitor - INFO - starting with monitoring folder C:\Users\Andrea\PycharmProjects\OCSExpMonitor\data\
+2018-05-18 20:45:48,581 - monitor - INFO - EXP file added C:\Users\Andrea\PycharmProjects\OCSExpMonitor\data\00000000a - Copia (8).EXP
+2018-05-18 20:46:13,893 - monitor - INFO - monitor started
+2018-05-18 20:46:13,893 - monitor - INFO - running with the following config file: config.cfg
+2018-05-18 20:46:13,893 - monitor - INFO - starting with monitoring folder C:\Users\Andrea\PycharmProjects\OCSExpMonitor\data\
+2018-05-18 20:46:43,927 - monitor - INFO - EXP file added C:\Users\Andrea\PycharmProjects\OCSExpMonitor\data\00000000a - Copia (2).EXP
+2018-05-18 20:49:59,883 - monitor - INFO - monitor started
+2018-05-18 20:49:59,883 - monitor - INFO - running with the following config file: config.cfg
+2018-05-18 20:49:59,883 - monitor - INFO - starting with monitoring folder C:\Users\Andrea\PycharmProjects\OCSExpMonitor\data\
+2018-05-18 20:50:12,388 - monitor - INFO - monitor started
+2018-05-18 20:50:12,388 - monitor - INFO - running with the following config file: config.cfg
+2018-05-18 20:50:12,388 - monitor - INFO - starting with monitoring folder C:\Users\Andrea\PycharmProjects\OCSExpMonitor\data\
+2018-05-18 20:50:22,411 - monitor - INFO - EXP file added C:\Users\Andrea\PycharmProjects\OCSExpMonitor\data\00000000a - Copia (3).EXP
+2018-05-18 20:50:40,635 - monitor - INFO - monitor started
+2018-05-18 20:50:40,635 - monitor - INFO - running with the following config file: config.cfg
+2018-05-18 20:50:40,635 - monitor - INFO - starting with monitoring folder C:\Users\Andrea\PycharmProjects\OCSExpMonitor\data\
+2018-05-18 20:51:41,900 - monitor - INFO - monitor started
+2018-05-18 20:51:41,900 - monitor - INFO - running with the following config file: config.cfg
+2018-05-18 20:51:41,900 - monitor - INFO - starting with monitoring folder C:\Users\Andrea\PycharmProjects\OCSExpMonitor\data\
+2018-05-18 20:51:51,929 - monitor - INFO - EXP file added C:\Users\Andrea\PycharmProjects\OCSExpMonitor\data\00000000a - Copia (4).EXP
+2018-05-19 14:52:41,486 - monitor - INFO - monitor started
+2018-05-19 14:52:41,486 - monitor - INFO - running with the following config file: config.cfg
+2018-05-19 14:53:03,984 - monitor - INFO - monitor started
+2018-05-19 14:53:03,984 - monitor - INFO - running with the following config file: config.cfg
+2018-05-19 14:53:03,984 - monitor - INFO - Database connected
+2018-05-19 14:53:03,991 - monitor - INFO - starting with monitoring folder C:\Users\Andrea\PycharmProjects\OCSExpMonitor\data\
+2018-05-19 15:11:50,433 - monitor - INFO - monitor started
+2018-05-19 15:11:50,433 - monitor - INFO - running with the following config file: config.cfg
+2018-05-19 15:11:50,433 - monitor - INFO - Database connected
+2018-05-19 15:11:50,433 - monitor - INFO - Populating database after first creation
+2018-05-19 15:11:50,449 - monitor - INFO - starting with monitoring folder C:\Users\Andrea\PycharmProjects\OCSExpMonitor\data\
+2018-05-19 15:12:22,905 - monitor - INFO - monitor started
+2018-05-19 15:12:22,905 - monitor - INFO - running with the following config file: config.cfg
+2018-05-19 15:12:22,905 - monitor - INFO - Database connected
+2018-05-19 15:12:22,905 - monitor - INFO - starting with monitoring folder C:\Users\Andrea\PycharmProjects\OCSExpMonitor\data\
+2018-05-21 14:28:03,230 - monitor - INFO - monitor started
+2018-05-21 14:28:03,230 - monitor - INFO - running with the following config file: config.cfg
+2018-05-21 14:28:03,230 - monitor - INFO - Database connected
+2018-05-21 14:28:03,230 - monitor - INFO - starting with monitoring folder C:\Users\Andrea\PycharmProjects\OCSExpMonitor\data\
+2018-05-21 14:28:23,264 - monitor - INFO - EXP file added C:\Users\Andrea\PycharmProjects\OCSExpMonitor\data\00000000a - Copia.EXP
+2018-05-21 14:28:23,301 - monitor - INFO - Database connected
+2018-05-21 14:35:13,979 - monitor - INFO - monitor started
+2018-05-21 14:35:13,979 - monitor - INFO - running with the following config file: config.cfg
+2018-05-21 14:35:13,979 - monitor - INFO - Database connected
+2018-05-21 14:35:13,979 - monitor - INFO - starting with monitoring folder C:\Users\Andrea\PycharmProjects\OCSExpMonitor\data\
+2018-05-21 14:35:34,000 - monitor - INFO - EXP file added C:\Users\Andrea\PycharmProjects\OCSExpMonitor\data\00000000a - Copia (2).EXP
+2018-05-21 14:35:34,006 - monitor - INFO - Database connected
+2018-05-21 14:59:49,629 - monitor - INFO - monitor started
+2018-05-21 14:59:49,629 - monitor - INFO - running with the following config file: config.cfg
+2018-05-21 15:00:37,685 - monitor - INFO - monitor started
+2018-05-21 15:00:37,685 - monitor - INFO - running with the following config file: config.cfg
+2018-05-21 15:00:37,685 - monitor - INFO - Database connected
+2018-05-21 15:00:37,685 - monitor - INFO - starting with monitoring folder C:\Users\Andrea\PycharmProjects\OCSExpMonitor\data\
+2018-05-21 15:00:57,717 - monitor - INFO - EXP file added C:\Users\Andrea\PycharmProjects\OCSExpMonitor\data\00000000a - Copia (3).EXP
+2018-05-21 15:02:35,968 - monitor - INFO - monitor started
+2018-05-21 15:02:35,968 - monitor - INFO - running with the following config file: config.cfg
+2018-05-21 15:02:35,968 - monitor - INFO - Database connected
+2018-05-21 15:02:35,968 - monitor - INFO - starting with monitoring folder C:\Users\Andrea\PycharmProjects\OCSExpMonitor\data\
+2018-05-21 15:02:45,974 - monitor - INFO - EXP file added C:\Users\Andrea\PycharmProjects\OCSExpMonitor\data\00000000a - Copia.EXP
+2018-05-21 15:02:45,981 - monitor - INFO - Populating database after first creation
+2018-05-21 15:04:38,150 - monitor - INFO - monitor started
+2018-05-21 15:04:38,150 - monitor - INFO - running with the following config file: config.cfg
+2018-05-21 15:04:38,151 - monitor - INFO - starting with monitoring folder C:\Users\Andrea\PycharmProjects\OCSExpMonitor\data\
+2018-05-21 15:04:38,151 - monitor - INFO - Database connected
+2018-05-21 15:04:58,171 - monitor - INFO - EXP file added C:\Users\Andrea\PycharmProjects\OCSExpMonitor\data\00000000a - Copia (2).EXP
+2018-05-21 15:04:58,187 - monitor - INFO - Populating database after first creation
+2018-05-21 15:06:28,634 - monitor - INFO - monitor started
+2018-05-21 15:06:28,634 - monitor - INFO - running with the following config file: config.cfg
+2018-05-21 15:06:28,634 - monitor - INFO - starting with monitoring folder C:\Users\Andrea\PycharmProjects\OCSExpMonitor\data\
+2018-05-21 15:06:28,634 - monitor - INFO - Database connected
+2018-05-21 15:06:48,667 - monitor - INFO - EXP file added C:\Users\Andrea\PycharmProjects\OCSExpMonitor\data\00000000a - Copia (3).EXP
+2018-05-21 15:06:48,685 - monitor - INFO - Populating database after first creation
+2018-05-21 15:18:50,834 - monitor - INFO - monitor started
+2018-05-21 15:18:50,834 - monitor - INFO - running with the following config file: config.cfg
+2018-05-21 15:18:50,834 - monitor - INFO - starting with monitoring folder C:\Users\Andrea\PycharmProjects\OCSExpMonitor\data\
+2018-05-21 15:18:50,852 - monitor - INFO - Database connected
+2018-05-21 15:19:00,867 - monitor - INFO - EXP file added C:\Users\Andrea\PycharmProjects\OCSExpMonitor\data\00000002 - Copia.EXP
+2018-05-21 15:19:00,883 - monitor - INFO - Populating database after first creation
+2018-05-21 15:23:42,996 - monitor - INFO - monitor started
+2018-05-21 15:23:42,997 - monitor - INFO - running with the following config file: config.cfg
+2018-05-21 15:23:43,000 - monitor - INFO - starting with monitoring folder C:\Users\Andrea\PycharmProjects\OCSExpMonitor\data\
+2018-05-21 15:23:43,002 - monitor - INFO - Database connected
+2018-05-21 15:23:53,011 - monitor - INFO - EXP file added C:\Users\Andrea\PycharmProjects\OCSExpMonitor\data\00000002 - Copia (2).EXP
+2018-05-21 15:23:53,051 - monitor - INFO - Populating database after first creation
+2018-05-21 15:28:08,995 - monitor - INFO - monitor started
+2018-05-21 15:28:08,996 - monitor - INFO - running with the following config file: config.cfg
+2018-05-21 15:28:09,000 - monitor - INFO - starting with monitoring folder C:\Users\Andrea\PycharmProjects\OCSExpMonitor\data\
+2018-05-21 15:28:09,002 - monitor - INFO - Database connected
+2018-05-21 15:28:19,023 - monitor - INFO - EXP file added C:\Users\Andrea\PycharmProjects\OCSExpMonitor\data\00000002 - Copia (3).EXP
+2018-05-21 15:30:53,734 - monitor - INFO - monitor started
+2018-05-21 15:30:53,734 - monitor - INFO - running with the following config file: config.cfg
+2018-05-21 15:30:53,751 - monitor - INFO - starting with monitoring folder C:\Users\Andrea\PycharmProjects\OCSExpMonitor\data\
+2018-05-21 15:30:53,751 - monitor - INFO - Database connected
+2018-05-21 15:31:03,761 - monitor - INFO - EXP file added C:\Users\Andrea\PycharmProjects\OCSExpMonitor\data\00000002 - Copia (4).EXP
+2018-05-21 16:17:56,784 - monitor - INFO - monitor started
+2018-05-21 16:17:56,784 - monitor - INFO - running with the following config file: config.cfg
+2018-05-21 16:17:56,784 - monitor - INFO - starting with monitoring folder C:\Users\Andrea\PycharmProjects\OCSExpMonitor\data\
+2018-05-21 16:17:56,784 - monitor - INFO - Database connected
+2018-05-21 16:18:06,794 - monitor - INFO - EXP file added C:\Users\Andrea\PycharmProjects\OCSExpMonitor\data\00000002 - Copia (5).EXP
+2018-05-21 16:20:11,828 - monitor - INFO - monitor started
+2018-05-21 16:20:11,829 - monitor - INFO - running with the following config file: config.cfg
+2018-05-21 16:20:11,832 - monitor - INFO - starting with monitoring folder C:\Users\Andrea\PycharmProjects\OCSExpMonitor\data\
+2018-05-21 16:20:11,834 - monitor - INFO - Database connected
+2018-05-21 16:21:31,875 - monitor - INFO - EXP file added C:\Users\Andrea\PycharmProjects\OCSExpMonitor\data\00000002 - Copia.EXP
+2018-05-21 16:22:53,568 - monitor - INFO - monitor started
+2018-05-21 16:22:53,584 - monitor - INFO - running with the following config file: config.cfg
+2018-05-21 16:22:53,585 - monitor - INFO - starting with monitoring folder C:\Users\Andrea\PycharmProjects\OCSExpMonitor\data\
+2018-05-21 16:22:53,585 - monitor - INFO - Database connected
+2018-05-21 16:23:03,609 - monitor - INFO - EXP file added C:\Users\Andrea\PycharmProjects\OCSExpMonitor\data\00000002 - Copia (2).EXP
+2018-05-21 16:32:24,201 - monitor - INFO - monitor started
+2018-05-21 16:32:24,201 - monitor - INFO - running with the following config file: config.cfg
+2018-05-21 16:32:24,201 - monitor - INFO - starting with monitoring folder C:\Users\Andrea\PycharmProjects\OCSExpMonitor\data\
+2018-05-21 16:32:24,201 - monitor - INFO - Database connected
+2018-05-21 16:32:34,224 - monitor - INFO - EXP file added C:\Users\Andrea\PycharmProjects\OCSExpMonitor\data\00000002 - Copia (3).EXP
+2018-05-21 16:34:14,733 - monitor - INFO - monitor started
+2018-05-21 16:34:14,734 - monitor - INFO - running with the following config file: config.cfg
+2018-05-21 16:34:14,734 - monitor - INFO - starting with monitoring folder C:\Users\Andrea\PycharmProjects\OCSExpMonitor\data\
+2018-05-21 16:34:14,734 - monitor - INFO - Database connected
+2018-05-21 16:34:24,750 - monitor - INFO - EXP file added C:\Users\Andrea\PycharmProjects\OCSExpMonitor\data\00000002 - Copia (4).EXP
+2018-05-21 16:44:55,068 - monitor - INFO - monitor started
+2018-05-21 16:44:55,068 - monitor - INFO - running with the following config file: config.cfg
+2018-05-21 16:44:55,068 - monitor - INFO - starting with monitoring folder C:\Users\Andrea\PycharmProjects\OCSExpMonitor\data\
+2018-05-21 16:44:55,083 - monitor - INFO - Database connected
+2018-05-21 16:45:05,097 - monitor - INFO - EXP file added C:\Users\Andrea\PycharmProjects\OCSExpMonitor\data\00000002 - Copia (5).EXP
+2018-05-21 16:46:07,601 - monitor - INFO - monitor started
+2018-05-21 16:46:07,601 - monitor - INFO - running with the following config file: config.cfg
+2018-05-21 16:46:07,601 - monitor - INFO - starting with monitoring folder C:\Users\Andrea\PycharmProjects\OCSExpMonitor\data\
+2018-05-21 16:46:07,601 - monitor - INFO - Database connected
+2018-05-21 16:46:17,618 - monitor - INFO - EXP file added C:\Users\Andrea\PycharmProjects\OCSExpMonitor\data\00000002 - Copia (6).EXP
+2018-05-21 16:46:36,818 - monitor - INFO - monitor started
+2018-05-21 16:46:36,818 - monitor - INFO - running with the following config file: config.cfg
+2018-05-21 16:46:36,842 - monitor - INFO - starting with monitoring folder C:\Users\Andrea\PycharmProjects\OCSExpMonitor\data\
+2018-05-21 16:46:36,846 - monitor - INFO - Database connected
+2018-05-21 16:46:46,849 - monitor - INFO - EXP file added C:\Users\Andrea\PycharmProjects\OCSExpMonitor\data\00000002 - Copia (7).EXP
+2018-05-21 16:48:33,734 - monitor - INFO - monitor started
+2018-05-21 16:48:33,734 - monitor - INFO - running with the following config file: config.cfg
+2018-05-21 16:48:33,741 - monitor - INFO - starting with monitoring folder C:\Users\Andrea\PycharmProjects\OCSExpMonitor\data\
+2018-05-21 16:48:33,751 - monitor - INFO - Database connected
+2018-05-21 16:48:43,768 - monitor - INFO - EXP file added C:\Users\Andrea\PycharmProjects\OCSExpMonitor\data\00000002 - Copia (8).EXP
+2018-05-21 16:52:27,884 - monitor - INFO - monitor started
+2018-05-21 16:52:27,884 - monitor - INFO - running with the following config file: config.cfg
+2018-05-21 16:52:27,884 - monitor - INFO - starting with monitoring folder C:\Users\Andrea\PycharmProjects\OCSExpMonitor\data\
+2018-05-21 16:52:27,900 - monitor - INFO - Database connected
+2018-05-21 16:52:47,935 - monitor - INFO - EXP file added C:\Users\Andrea\PycharmProjects\OCSExpMonitor\data\00000002 - Copia (9).EXP
+2018-05-21 16:57:57,451 - monitor - INFO - monitor started
+2018-05-21 16:57:57,451 - monitor - INFO - running with the following config file: config.cfg
+2018-05-21 16:57:57,451 - monitor - INFO - starting with monitoring folder C:\Users\Andrea\PycharmProjects\OCSExpMonitor\data\
+2018-05-21 16:57:57,451 - monitor - INFO - Database connected
+2018-05-21 16:58:07,470 - monitor - INFO - EXP file added C:\Users\Andrea\PycharmProjects\OCSExpMonitor\data\00000002 - Copia (10).EXP
+2018-05-21 16:59:30,135 - monitor - INFO - monitor started
+2018-05-21 16:59:30,135 - monitor - INFO - running with the following config file: config.cfg
+2018-05-21 16:59:30,135 - monitor - INFO - starting with monitoring folder C:\Users\Andrea\PycharmProjects\OCSExpMonitor\data\
+2018-05-21 16:59:30,135 - monitor - INFO - Database connected
+2018-05-21 16:59:40,153 - monitor - INFO - EXP file added C:\Users\Andrea\PycharmProjects\OCSExpMonitor\data\00000002 - Copia (11).EXP
+2018-05-21 17:16:19,751 - monitor - INFO - monitor started
+2018-05-21 17:16:19,751 - monitor - INFO - running with the following config file: config.cfg
+2018-05-21 17:16:19,751 - monitor - INFO - starting with monitoring folder C:\Users\Andrea\PycharmProjects\OCSExpMonitor\data\
+2018-05-21 17:16:19,751 - monitor - INFO - Database connected
+2018-05-21 17:16:25,701 - monitor - INFO - monitor started
+2018-05-21 17:16:25,701 - monitor - INFO - running with the following config file: config.cfg
+2018-05-21 17:16:25,718 - monitor - INFO - starting with monitoring folder C:\Users\Andrea\PycharmProjects\OCSExpMonitor\data\
+2018-05-21 17:16:25,718 - monitor - INFO - Database connected
+2018-05-21 17:16:35,734 - monitor - INFO - EXP file added C:\Users\Andrea\PycharmProjects\OCSExpMonitor\data\00000002 - Copia.EXP
+2018-05-21 17:17:32,851 - monitor - INFO - monitor started
+2018-05-21 17:17:32,851 - monitor - INFO - running with the following config file: config.cfg
+2018-05-21 17:17:32,851 - monitor - INFO - starting with monitoring folder C:\Users\Andrea\PycharmProjects\OCSExpMonitor\data\
+2018-05-21 17:17:32,868 - monitor - INFO - Database connected
+2018-05-21 17:17:42,881 - monitor - INFO - EXP file added C:\Users\Andrea\PycharmProjects\OCSExpMonitor\data\00000002 - Copia (2).EXP
+2018-05-21 17:19:36,633 - monitor - INFO - monitor started
+2018-05-21 17:19:36,634 - monitor - INFO - running with the following config file: config.cfg
+2018-05-21 17:19:36,634 - monitor - INFO - starting with monitoring folder C:\Users\Andrea\PycharmProjects\OCSExpMonitor\data\
+2018-05-21 17:19:36,634 - monitor - INFO - Database connected
+2018-05-21 17:19:46,650 - monitor - INFO - EXP file added C:\Users\Andrea\PycharmProjects\OCSExpMonitor\data\00000002 - Copia (3).EXP
+2018-05-22 16:36:05,976 - monitor - INFO - monitor started
+2018-05-22 16:36:05,976 - monitor - INFO - running with the following config file: config.cfg
+2018-05-22 16:36:05,984 - monitor - INFO - starting with monitoring folder C:\Users\Andrea\PycharmProjects\OCSExpMonitor\data\
+2018-05-22 16:36:05,994 - monitor - INFO - Database connected
+2018-05-22 16:36:15,999 - monitor - INFO - EXP file added C:\Users\Andrea\PycharmProjects\OCSExpMonitor\data\00000002 - Copia.EXP
+2018-05-22 16:36:16,037 - monitor - INFO - Populating database after first creation
+2018-05-22 16:37:27,136 - monitor - INFO - monitor started
+2018-05-22 16:37:27,136 - monitor - INFO - running with the following config file: config.cfg
+2018-05-22 16:37:27,138 - monitor - INFO - starting with monitoring folder C:\Users\Andrea\PycharmProjects\OCSExpMonitor\data\
+2018-05-22 16:37:27,140 - monitor - INFO - Database connected
+2018-05-22 16:37:37,145 - monitor - INFO - EXP file added C:\Users\Andrea\PycharmProjects\OCSExpMonitor\data\00000002 - Copia.EXP
+2018-05-22 16:37:37,161 - monitor - INFO - Populating database after first creation
+2018-05-22 16:38:34,977 - monitor - INFO - monitor started
+2018-05-22 16:38:34,977 - monitor - INFO - running with the following config file: config.cfg
+2018-05-22 16:38:34,977 - monitor - INFO - starting with monitoring folder C:\Users\Andrea\PycharmProjects\OCSExpMonitor\data\
+2018-05-22 16:38:34,977 - monitor - INFO - Database connected
+2018-05-22 16:38:44,997 - monitor - INFO - EXP file added C:\Users\Andrea\PycharmProjects\OCSExpMonitor\data\00000002 - Copia (2).EXP
+2018-05-22 16:38:45,013 - monitor - INFO - Populating database after first creation
+2018-05-22 16:41:07,160 - monitor - INFO - monitor started
+2018-05-22 16:41:07,160 - monitor - INFO - running with the following config file: config.cfg
+2018-05-22 16:41:07,160 - monitor - INFO - starting with monitoring folder C:\Users\Andrea\PycharmProjects\OCSExpMonitor\data\
+2018-05-22 16:41:07,160 - monitor - INFO - Database connected
+2018-05-22 16:41:17,177 - monitor - INFO - EXP file added C:\Users\Andrea\PycharmProjects\OCSExpMonitor\data\00000002 - Copia (3).EXP
+2018-05-22 16:41:17,227 - monitor - INFO - Populating database after first creation
+2018-05-23 11:02:01,869 - monitor - INFO - monitor started
+2018-05-23 11:02:01,869 - monitor - INFO - running with the following config file: config.cfg
+2018-05-23 11:02:01,881 - monitor - INFO - starting with monitoring folder C:\Users\Andrea\PycharmProjects\OCSExpMonitor\data\
+2018-05-23 11:02:01,885 - monitor - INFO - Database connected
+2018-05-23 11:02:11,888 - monitor - INFO - EXP file added C:\Users\Andrea\PycharmProjects\OCSExpMonitor\data\00000002 - Copia.EXP
+2018-05-23 11:02:11,957 - monitor - INFO - Populating database after first creation
+2018-05-23 11:05:52,382 - monitor - INFO - monitor started
+2018-05-23 11:05:52,382 - monitor - INFO - running with the following config file: config.cfg
+2018-05-23 11:05:52,386 - monitor - INFO - starting with monitoring folder C:\Users\Andrea\PycharmProjects\OCSExpMonitor\data\
+2018-05-23 11:05:52,387 - monitor - INFO - Database connected
+2018-05-23 11:06:02,392 - monitor - INFO - EXP file added C:\Users\Andrea\PycharmProjects\OCSExpMonitor\data\00000002 - Copia (2).EXP
+2018-05-23 11:09:50,589 - monitor - INFO - monitor started
+2018-05-23 11:09:50,592 - monitor - INFO - running with the following config file: config.cfg
+2018-05-23 11:09:50,596 - monitor - INFO - starting with monitoring folder C:\Users\Andrea\PycharmProjects\OCSExpMonitor\data\
+2018-05-23 11:09:50,599 - monitor - INFO - Database connected
+2018-05-23 11:10:00,604 - monitor - INFO - EXP file added C:\Users\Andrea\PycharmProjects\OCSExpMonitor\data\00000002 - Copia (3).EXP
+2018-05-23 11:12:31,992 - monitor - INFO - monitor started
+2018-05-23 11:12:31,992 - monitor - INFO - running with the following config file: config.cfg
+2018-05-23 11:12:31,994 - monitor - INFO - starting with monitoring folder C:\Users\Andrea\PycharmProjects\OCSExpMonitor\data\
+2018-05-23 11:12:31,995 - monitor - INFO - Database connected
+2018-05-23 11:12:41,997 - monitor - INFO - EXP file added C:\Users\Andrea\PycharmProjects\OCSExpMonitor\data\00000002 - Copia (4).EXP
+2018-05-23 11:13:53,111 - monitor - INFO - monitor started
+2018-05-23 11:13:53,111 - monitor - INFO - running with the following config file: config.cfg
+2018-05-23 11:13:53,113 - monitor - INFO - starting with monitoring folder C:\Users\Andrea\PycharmProjects\OCSExpMonitor\data\
+2018-05-23 11:13:53,114 - monitor - INFO - Database connected
+2018-05-23 11:14:03,117 - monitor - INFO - EXP file added C:\Users\Andrea\PycharmProjects\OCSExpMonitor\data\00000002 - Copia (5).EXP
+2018-05-23 11:54:44,313 - monitor - INFO - monitor started
+2018-05-23 11:54:44,313 - monitor - INFO - running with the following config file: config.cfg
+2018-05-23 11:54:44,315 - monitor - INFO - starting with monitoring folder C:\Users\Andrea\PycharmProjects\OCSExpMonitor\data\
+2018-05-23 11:54:44,316 - monitor - INFO - Database connected
+2018-05-23 11:54:54,318 - monitor - INFO - EXP file added C:\Users\Andrea\PycharmProjects\OCSExpMonitor\data\00000000a - Copia.EXP
+2018-05-23 11:54:54,337 - monitor - INFO - Populating database after first creation
